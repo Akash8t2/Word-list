@@ -20,7 +20,7 @@ print (red+b+"""
 
 """+b+red)
 
-print (gren+b+"            <===[[ coded by N17R0 ]]===>"+b+gren)
+print (gren+b+"            <===[[ coded by Akash ]]===>"+b+gren)
 print (" ")
 print (yellow+b+"     <---( search on youtube noob hackers)--->"+b+yellow)
 print (" ")
